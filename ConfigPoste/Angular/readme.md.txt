@@ -1,0 +1,1 @@
+installer le .nmprc ou alors le placer au meme niveau que vos angular.json
